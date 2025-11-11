@@ -15,3 +15,9 @@ change done to the objects also uptades the result they give when the show()
 method is called. This is the same behavior as the time since it was first created.
 4: MessagePost no longer works because it stopped inheriting from Post.
 5: Inherited methods directly comes from an inherited class.
+7: When the super method is used, it uses the same constructor method as its superclass.
+9: From top to bottom:
+Food item,
+Cereal, Fruit, Dessert,
+Bread, Baguette, Orange, Apple, Ice cream, Chocolate mousse.
+10: The touch pad and the mouse are both imput devices for the cursor.
