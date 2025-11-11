@@ -21,3 +21,7 @@ Food item,
 Cereal, Fruit, Dessert,
 Bread, Baguette, Orange, Apple, Ice cream, Chocolate mousse.
 10: The touch pad and the mouse are both imput devices for the cursor.
+11: The square because they also count as rectangles, but rectangles do not count as squares.
+12: a: Person p1 = new Student();, Person p2 = new PhDStudent();, Student s1 = new PhDStudent();.
+b: p1=s1; and s1=phd1; because the supertype variable already holds a subtype object.
+14: Nothing, because it looks into Post, not EventPost.
