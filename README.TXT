@@ -41,5 +41,7 @@ method is called. This is the same behavior as the time since it was first creat
     AbstractList, 
     AbstractSequentialList, ArrayList, Vector, 
     LinkedList/ AttributeList, RoleList, RoleUnresolvedList/ Stack.
-
-    
+20: I observe many errors.
+21: The Message/PhotoPost's display method will be called, and my prediction was correct because they
+both inherit from Post.
+22: It behaves as expected, without any difficulties.
